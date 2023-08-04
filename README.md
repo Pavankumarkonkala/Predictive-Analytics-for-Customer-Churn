@@ -1,2 +1,2 @@
 # Predictive-Analytics-for-Customer-Churn
- Developed a predictive model using machine learning algorithms to forecast customer churn in a telecommunications company.
+ Developed a predictive model using machine learning algorithms to forecast customer churn in a telecommunications company. Preprocessed and analyzed historical customer data to identify key factors influencing churn. Implemented classification models like Logistic Regression, Random Forest, or Gradient Boosting to predict churn probability accurately. Evaluated the model's performance and provided actionable insights to reduce customer churn and increase retention.
