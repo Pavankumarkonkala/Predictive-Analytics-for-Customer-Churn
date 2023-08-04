@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load and preprocess data
-data = pd.read_csv('customer_churn_data.csv')
+data = pd.read_csv('[customer_churn_data.csv](https://github.com/Pavankumarkonkala/Predictive-Analytics-for-Customer-Churn/blob/36ef8cfc3154abe3af86e6e7f891b47cab295731/customer_churn_data.csv)')
 # Perform data cleaning and feature engineering
 
 # Split data into training and testing sets
