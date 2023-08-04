@@ -1,0 +1,51 @@
+customer_id,gender,age,monthly_charges,total_charges,contract_type,paperless_billing,tenure,churn
+101,Female,45,79.99,1890.56,Two year,Yes,24,No
+102,Male,32,99.00,2976.90,Month-to-month,Yes,14,Yes
+103,Female,58,109.00,3240.00,One year,Yes,56,No
+104,Male,23,69.99,123.45,Month-to-month,No,2,Yes
+105,Male,37,89.99,4436.10,Two year,Yes,72,No
+106,Female,65,119.99,899.00,One year,No,10,Yes
+107,Male,52,84.99,5289.30,Month-to-month,Yes,40,No
+108,Female,29,69.99,69.99,Month-to-month,Yes,1,Yes
+109,Male,48,94.99,569.45,Two year,Yes,62,No
+110,Female,41,74.99,1249.98,Two year,Yes,16,No
+111,Male,54,96.00,4104.85,Two year,No,43,No
+112,Female,63,104.50,3256.30,One year,Yes,55,No
+113,Male,31,69.50,549.30,Month-to-month,No,8,Yes
+114,Female,27,89.99,2445.40,Month-to-month,Yes,27,No
+115,Male,59,119.00,6828.40,Two year,Yes,59,No
+116,Male,50,84.99,4872.75,Two year,Yes,57,No
+117,Female,39,75.50,2232.90,Month-to-month,Yes,29,Yes
+118,Female,44,89.00,3022.25,One year,Yes,34,No
+119,Male,36,79.99,2959.50,Month-to-month,Yes,41,Yes
+120,Male,28,69.99,1394.80,Month-to-month,Yes,19,Yes
+121,Female,61,99.00,5969.10,One year,Yes,64,No
+122,Female,46,84.99,3921.90,Two year,Yes,46,No
+123,Male,22,79.00,1578.50,Month-to-month,Yes,20,Yes
+124,Male,33,94.99,3255.00,One year,No,35,No
+125,Female,51,99.99,6075.40,Two year,Yes,65,No
+126,Female,34,74.00,1303.30,Month-to-month,Yes,18,Yes
+127,Male,42,84.99,3614.80,Two year,Yes,43,No
+128,Male,25,79.99,1591.75,One year,Yes,20,Yes
+129,Female,60,119.00,7235.25,Two year,Yes,61,No
+130,Male,30,74.99,4373.25,Two year,Yes,58,No
+131,Female,56,99.00,5462.70,Two year,Yes,54,No
+132,Male,35,79.99,2797.90,One year,Yes,37,No
+133,Female,48,89.99,4678.90,Month-to-month,Yes,53,No
+134,Male,26,79.00,1747.90,Month-to-month,Yes,22,Yes
+135,Female,47,84.99,4629.20,Month-to-month,Yes,57,Yes
+136,Male,29,94.50,2811.30,Month-to-month,Yes,30,No
+137,Male,49,84.99,4401.20,Two year,Yes,54,No
+138,Female,38,74.00,1653.45,Two year,No,23,No
+139,Female,40,89.00,2893.50,Month-to-month,Yes,33,Yes
+140,Male,21,79.00,246.60,Month-to-month,No,3,Yes
+141,Male,43,119.99,5425.10,Two year,Yes,47,No
+142,Female,55,104.50,3596.30,One year,Yes,49,No
+143,Female,53,69.50,2982.30,Month-to-month,No,43,No
+144,Male,24,89.99,2011.10,One year,Yes,22,Yes
+145,Female,50,119.00,6666.80,One year,No,56,No
+146,Female,57,99.99,5687.40,Two year,Yes,58,No
+147,Male,33,74.99,2199.60,Month-to-month,No,30,No
+148,Male,26,84.99,2021.10,Month-to-month,Yes,25,Yes
+149,Female,39,89.99,4137.00,One year,Yes,46,No
+150,Male,51,104.50,5363.95,Two year,Yes,57,No
